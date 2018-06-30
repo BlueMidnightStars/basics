@@ -1034,7 +1034,7 @@ h3{
 	width: 180px;
 	height: 130px;
 	position: absolute;
-	top: 553px;
+	top: 592px;
 	left: 673px;
 	
 }
@@ -1321,7 +1321,7 @@ h3{
 	line-height: 70px;
 	color: #fff;
 }
-/*.overview-section{
+.overview-section{
 	display: none;
 }
 .outline-section{
@@ -1335,7 +1335,7 @@ h3{
 }
 .matter-section{
 	display: none;
-}*/
+}
 
 
 .active{
